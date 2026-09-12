@@ -1,0 +1,14 @@
+{
+  "latestVersion": "1.0.1",
+  "latestVersionCode": 3,
+  "releaseDate": "2026-09-12",
+  "releaseNotes": "bc",
+  "fullApk": {
+    "fileName": "attendent_v1.0.1.apk",
+    "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/attendent_v1.0.1.apk",
+    "sizeBytes": 75279979,
+    "sizeFormatted": "71.79 MB",
+    "sha256": "f20ac6fd1033574cf14c5e703fbd12eca4bb39bf3d27bbde788f3dac1e6fe0c8"
+  },
+  "patches": []
+}
