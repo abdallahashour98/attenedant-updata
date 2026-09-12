@@ -1,14 +1,25 @@
 {
-  "latestVersion": "1.0.1",
-  "latestVersionCode": 3,
-  "releaseDate": "2026-09-12",
-  "releaseNotes": "bc",
+  "latestVersion": "1.0.2",
+  "latestVersionCode": 4,
+  "releaseDate": "2026-09-13",
+  "releaseNotes": "2",
   "fullApk": {
-    "fileName": "attendent_v1.0.1.apk",
-    "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/attendent_v1.0.1.apk",
+    "fileName": "attendent_v1.0.2.apk",
+    "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/attendent_v1.0.2.apk",
     "sizeBytes": 75279979,
     "sizeFormatted": "71.79 MB",
-    "sha256": "f20ac6fd1033574cf14c5e703fbd12eca4bb39bf3d27bbde788f3dac1e6fe0c8"
+    "sha256": "546f9f8d5287fb5759d6aaa0e2dd63b0c8886b04191672d1083f70c02f114269"
   },
-  "patches": []
+  "patches": [
+    {
+      "fromVersion": "1.0.1",
+      "fromVersionCode": 3,
+      "fileName": "patch_v1.0.1_to_v1.0.2.patch",
+      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.1_to_v1.0.2.patch",
+      "sizeBytes": 8154,
+      "sizeFormatted": "7.96 KB",
+      "patchSha256": "7f054801d8929b20ab327d7334ed251c0b68a56cdb4e83938deb27a9162e52ee",
+      "targetSha256": "546f9f8d5287fb5759d6aaa0e2dd63b0c8886b04191672d1083f70c02f114269"
+    }
+  ]
 }
