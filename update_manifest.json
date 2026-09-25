@@ -1,26 +1,48 @@
 {
-  "latestVersion": "1.0.5",
-  "latestVersionCode": 7,
+  "latestVersion": "1.0.6",
+  "latestVersionCode": 8,
   "releaseDate": "2026-09-25",
-  "releaseNotes": "23",
+  "releaseNotes": "22",
   "fullApk": {
-    "fileName": "attendent_v1.0.5.apk",
-    "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/attendent_v1.0.5.apk",
-    "sizeBytes": 31623837,
-    "sizeFormatted": "30.16 MB",
-    "sha256": "c8dc190b096e4d1f4157d72085c03eabebb861786ee3e800cd5a0a38e481399a"
+    "fileName": "attendent_v1.0.6.apk",
+    "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/attendent_v1.0.6.apk",
+    "sizeBytes": 31689405,
+    "sizeFormatted": "30.22 MB",
+    "sha256": "4f55f0e03c06f45e5ec3d1161e492eb13b2c942c749ea295286b3884aa8a4634"
   },
   "patches": [
     {
+      "fromVersion": "1.0.3",
+      "fromVersionCode": 5,
+      "fileName": "patch_v1.0.3_to_v1.0.6.patch",
+      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.3_to_v1.0.6.patch",
+      "sizeBytes": 13003265,
+      "sizeFormatted": "12.40 MB",
+      "fromSha256": "cd686d9e6b7409f24d6c34587ef0eaa534ef20dd07a7be1d3d2af0d5d337f4fa",
+      "patchSha256": "4a69a50aee1af969222678dcda7f1025412c0f713678c3cc72514a37490387b6",
+      "targetSha256": "4f55f0e03c06f45e5ec3d1161e492eb13b2c942c749ea295286b3884aa8a4634"
+    },
+    {
       "fromVersion": "1.0.4",
       "fromVersionCode": 6,
-      "fileName": "patch_v1.0.4_to_v1.0.5.patch",
-      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.4_to_v1.0.5.patch",
-      "sizeBytes": 13011925,
-      "sizeFormatted": "12.41 MB",
+      "fileName": "patch_v1.0.4_to_v1.0.6.patch",
+      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.4_to_v1.0.6.patch",
+      "sizeBytes": 13003264,
+      "sizeFormatted": "12.40 MB",
       "fromSha256": "efc69093a0e5cff3a4910853608532419c32aa311f0912d0876273284510fbe6",
-      "patchSha256": "917ff81afa73cf5ac5bff0565f43a9b5cd69f6afab19df5c079f6be4d0de0c1a",
-      "targetSha256": "c8dc190b096e4d1f4157d72085c03eabebb861786ee3e800cd5a0a38e481399a"
+      "patchSha256": "2a28e633a4bd0de1709539e52087479792f1978d41ebd88dbf3ef29d13fde1a2",
+      "targetSha256": "4f55f0e03c06f45e5ec3d1161e492eb13b2c942c749ea295286b3884aa8a4634"
+    },
+    {
+      "fromVersion": "1.0.5",
+      "fromVersionCode": 7,
+      "fileName": "patch_v1.0.5_to_v1.0.6.patch",
+      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.5_to_v1.0.6.patch",
+      "sizeBytes": 13000754,
+      "sizeFormatted": "12.40 MB",
+      "fromSha256": "c8dc190b096e4d1f4157d72085c03eabebb861786ee3e800cd5a0a38e481399a",
+      "patchSha256": "e79de1d76ba7ba9c3ac6f8ca4f53ade3aca5c87eeb18edf0018133a64ff27608",
+      "targetSha256": "4f55f0e03c06f45e5ec3d1161e492eb13b2c942c749ea295286b3884aa8a4634"
     }
   ]
 }
