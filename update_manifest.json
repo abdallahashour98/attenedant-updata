@@ -10,5 +10,17 @@
     "sizeFormatted": "30.16 MB",
     "sha256": "c8dc190b096e4d1f4157d72085c03eabebb861786ee3e800cd5a0a38e481399a"
   },
-  "patches": []
+  "patches": [
+    {
+      "fromVersion": "1.0.4",
+      "fromVersionCode": 6,
+      "fileName": "patch_v1.0.4_to_v1.0.5.patch",
+      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.4_to_v1.0.5.patch",
+      "sizeBytes": 13011925,
+      "sizeFormatted": "12.41 MB",
+      "fromSha256": "efc69093a0e5cff3a4910853608532419c32aa311f0912d0876273284510fbe6",
+      "patchSha256": "917ff81afa73cf5ac5bff0565f43a9b5cd69f6afab19df5c079f6be4d0de0c1a",
+      "targetSha256": "c8dc190b096e4d1f4157d72085c03eabebb861786ee3e800cd5a0a38e481399a"
+    }
+  ]
 }
