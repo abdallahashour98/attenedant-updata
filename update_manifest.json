@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.10",
-  "latestVersionCode": 12,
-  "releaseDate": "2026-09-25",
-  "releaseNotes": "updata",
+  "latestVersion": "1.0.11",
+  "latestVersionCode": 13,
+  "releaseDate": "2026-10-03",
+  "releaseNotes": "Update Google Drive cloud backup, support contact, and general improvements",
   "fullApk": {
-    "fileName": "attendent_v1.0.10.apk",
-    "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/attendent_v1.0.10.apk",
-    "sizeBytes": 77118195,
-    "sizeFormatted": "73.55 MB",
-    "sha256": "eddd4752e968502d0ab53dfd57f8ff5d73c7134bdad913bd6b62b793144f9c45"
+    "fileName": "attendent_v1.0.11.apk",
+    "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/attendent_v1.0.11.apk",
+    "sizeBytes": 77183723,
+    "sizeFormatted": "73.61 MB",
+    "sha256": "4d17db7ccb9c426ef3d541a0f2570cdc72e43c96dbc9cb2c79ba1bf0f79184ab"
   },
   "patches": [
     {
-      "fromVersion": "1.0.7",
-      "fromVersionCode": 9,
-      "fileName": "patch_v1.0.7_to_v1.0.10.patch",
-      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.7_to_v1.0.10.patch",
-      "sizeBytes": 31612979,
-      "sizeFormatted": "30.15 MB",
-      "fromSha256": "6e7c7f8c6c2bc89f01b76d0dfb75e05a7216b3c25ffdccdb0c910cd858d4f1a1",
-      "patchSha256": "78eb48ae7ff7e97dcf97a15781dc06e731755a72782fe956cad728feee6dc8ca",
-      "targetSha256": "eddd4752e968502d0ab53dfd57f8ff5d73c7134bdad913bd6b62b793144f9c45"
-    },
-    {
       "fromVersion": "1.0.8",
       "fromVersionCode": 10,
-      "fileName": "patch_v1.0.8_to_v1.0.10.patch",
-      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.8_to_v1.0.10.patch",
-      "sizeBytes": 31584488,
-      "sizeFormatted": "30.12 MB",
+      "fileName": "patch_v1.0.8_to_v1.0.11.patch",
+      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.8_to_v1.0.11.patch",
+      "sizeBytes": 31570105,
+      "sizeFormatted": "30.11 MB",
       "fromSha256": "cb560aaefac4dbc569dc58cd5ab6a6ff01cfcd0adcf4aea686245ea7027ef253",
-      "patchSha256": "99e423031c0549005280661fd4fe1997e165ce25ab4053f32e6c71c866fc8886",
-      "targetSha256": "eddd4752e968502d0ab53dfd57f8ff5d73c7134bdad913bd6b62b793144f9c45"
+      "patchSha256": "e0b401610d25260f717e4cda89c9b445e2361c081462db7564b65cbb04142c57",
+      "targetSha256": "4d17db7ccb9c426ef3d541a0f2570cdc72e43c96dbc9cb2c79ba1bf0f79184ab"
     },
     {
       "fromVersion": "1.0.9",
       "fromVersionCode": 11,
-      "fileName": "patch_v1.0.9_to_v1.0.10.patch",
-      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.9_to_v1.0.10.patch",
-      "sizeBytes": 31610312,
+      "fileName": "patch_v1.0.9_to_v1.0.11.patch",
+      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.9_to_v1.0.11.patch",
+      "sizeBytes": 31617233,
       "sizeFormatted": "30.15 MB",
       "fromSha256": "1ba0a0751d038c81404e6b45e1a800206c51ceaabce03a5b1ab0aeadf3a4ce7a",
-      "patchSha256": "f4077e015b3d9f5b71936d2c00ea130b386db9f6194781cf0dd9267dde5e5d7d",
-      "targetSha256": "eddd4752e968502d0ab53dfd57f8ff5d73c7134bdad913bd6b62b793144f9c45"
+      "patchSha256": "453560484ce821d55a71bca6bb93d25578f9c7ed181a81164f30e74953cfc711",
+      "targetSha256": "4d17db7ccb9c426ef3d541a0f2570cdc72e43c96dbc9cb2c79ba1bf0f79184ab"
+    },
+    {
+      "fromVersion": "1.0.10",
+      "fromVersionCode": 12,
+      "fileName": "patch_v1.0.10_to_v1.0.11.patch",
+      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.10_to_v1.0.11.patch",
+      "sizeBytes": 31612064,
+      "sizeFormatted": "30.15 MB",
+      "fromSha256": "eddd4752e968502d0ab53dfd57f8ff5d73c7134bdad913bd6b62b793144f9c45",
+      "patchSha256": "91f80c2f02badea473923984deb2f3e0cd0449b62cc33e3d6f1099667a53bf77",
+      "targetSha256": "4d17db7ccb9c426ef3d541a0f2570cdc72e43c96dbc9cb2c79ba1bf0f79184ab"
     }
   ]
 }
