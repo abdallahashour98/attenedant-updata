@@ -10,39 +10,5 @@
     "sizeFormatted": "74.38 MB",
     "sha256": "da4e8d6a758792d7c9196cdd86e5a85544c2963242680362ead654d8ea0d9ee7"
   },
-  "patches": [
-    {
-      "fromVersion": "1.0.9",
-      "fromVersionCode": 11,
-      "fileName": "patch_v1.0.9_to_v1.0.12.patch",
-      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.9_to_v1.0.12.patch",
-      "sizeBytes": 34002580,
-      "sizeFormatted": "32.43 MB",
-      "fromSha256": "1ba0a0751d038c81404e6b45e1a800206c51ceaabce03a5b1ab0aeadf3a4ce7a",
-      "patchSha256": "092e341f7d5202faaa5daa8a173457bd1fd66c30919d7c1211b9b3c26dc103e2",
-      "targetSha256": "da4e8d6a758792d7c9196cdd86e5a85544c2963242680362ead654d8ea0d9ee7"
-    },
-    {
-      "fromVersion": "1.0.10",
-      "fromVersionCode": 12,
-      "fileName": "patch_v1.0.10_to_v1.0.12.patch",
-      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.10_to_v1.0.12.patch",
-      "sizeBytes": 33829972,
-      "sizeFormatted": "32.26 MB",
-      "fromSha256": "eddd4752e968502d0ab53dfd57f8ff5d73c7134bdad913bd6b62b793144f9c45",
-      "patchSha256": "8eb346281ed8cb7c59cb779379276724da61dfc8c47db63f89d2b3e45e2ce802",
-      "targetSha256": "da4e8d6a758792d7c9196cdd86e5a85544c2963242680362ead654d8ea0d9ee7"
-    },
-    {
-      "fromVersion": "1.0.11",
-      "fromVersionCode": 13,
-      "fileName": "patch_v1.0.11_to_v1.0.12.patch",
-      "url": "https://github.com/abdallahashour98/attenedant-updata/releases/latest/download/patch_v1.0.11_to_v1.0.12.patch",
-      "sizeBytes": 34036511,
-      "sizeFormatted": "32.46 MB",
-      "fromSha256": "4d17db7ccb9c426ef3d541a0f2570cdc72e43c96dbc9cb2c79ba1bf0f79184ab",
-      "patchSha256": "12d0bd6f50901c833ccb07073ce775e719575537fa275fad4d4faca59b1d6080",
-      "targetSha256": "da4e8d6a758792d7c9196cdd86e5a85544c2963242680362ead654d8ea0d9ee7"
-    }
-  ]
+  "patches": []
 }
